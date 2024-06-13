@@ -272,6 +272,6 @@
 
 
 <a name="books"><h3>Книги<h3></a>
-- [Основы Dart. 2-е издание](https://habr.com/ru/articles/773442/) - Второе издание книги от Станислава Чернышева - "ОСНОВЫ DART" (распространяется бесплатно).
+- [Основы Dart. 2-е издание, 523 стр.](https://habr.com/ru/articles/773442/) - Второе издание книги от Станислава Чернышева - "ОСНОВЫ DART" (распространяется бесплатно).
 
-- [Основы Dart. 4-е издание](https://boosty.to/madteacher/posts/6371babe-6973-4d9b-930b-11d7754c9d46?share=post_link) - Четвертое издание книги от Станислава Чернышева - "ОСНОВЫ DART". На [сайте издательства "Питер"](https://www.piter.com/collection/biblioteka-programmista/product/osnovy-dart) продается электронная и печатная версия книги без части материала.
+- [Основы Dart. 4-е издание, 770 стр.](https://boosty.to/madteacher/posts/6371babe-6973-4d9b-930b-11d7754c9d46?share=post_link) - Четвертое издание книги от Станислава Чернышева - "ОСНОВЫ DART". На [сайте издательства "Питер"](https://www.piter.com/collection/biblioteka-programmista/product/osnovy-dart) продается электронная и печатная версия книги без части материала.
